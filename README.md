@@ -1,16 +1,2 @@
-# fruit_app
+<img src="https://github.com/Ruhi-Radadiya/Designer_1_flutter_app/assets/150025610/f9247bea-2f0c-438c-b225-450cf27795bf" width=300px>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
